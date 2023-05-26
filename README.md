@@ -16,6 +16,16 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
+Скриншот item загрузки процессора:
+
+https://github.com/megawebtech/zabbix2_26052023/blob/master/item_test_CPU_load.JPG
+
+Скриншот item загрузки RAM:
+
+https://github.com/megawebtech/zabbix2_26052023/blob/master/item_test_RAM_load.JPG
+
+
+
 
 
 
