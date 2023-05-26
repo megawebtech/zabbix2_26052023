@@ -83,3 +83,7 @@ https://github.com/megawebtech/zabbix2_26052023/blob/master/task%202-3.JPG
  ---
 
 
+Скриншот дашборда:
+
+https://github.com/megawebtech/zabbix2_26052023/blob/master/dashboard.JPG
+
